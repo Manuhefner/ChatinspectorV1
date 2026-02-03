@@ -8,7 +8,7 @@
  */
 
 import { Button } from "@/components/ui/button";
-import { Card } from "@/components/ui/card";
+import { NextGenCard } from "../components/NextGenCard";
 import { Badge } from "@/components/ui/badge";
 import { 
   Shield, 
